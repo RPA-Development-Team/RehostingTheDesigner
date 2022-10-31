@@ -1,0 +1,15 @@
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\bin\Debug\HostingApplication.exe.config
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\bin\Debug\HostingApplication.exe
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\bin\Debug\HostingApplication.pdb
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.csprojAssemblyReference.cache
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\MainWindow.g.cs
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\App.g.cs
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication_MarkupCompile.cache
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication_MarkupCompile.lref
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\MainWindow.baml
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.g.resources
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.Properties.Resources.resources
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.csproj.GenerateResource.cache
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.csproj.CoreCompileInputs.cache
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.exe
+C:\Users\mhmh\source\repos\RehostingTheDesigner\HostingApplication\obj\Debug\HostingApplication.pdb
